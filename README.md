@@ -1,0 +1,2 @@
+# Office-Hours
+You have been hired by the CS Department to write code to help synchronize a professor and his/her students during office hours. The professor, of course, wants to take a nap if no students are around to ask questions; if there are students who want to ask questions, they must synchronize with each other and with the professor so that  only one person is speaking at any one time,  each student question is answered by the professor, and  no student asks another question before the professor is done answering the previous one. 
